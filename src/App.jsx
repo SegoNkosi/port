@@ -1,0 +1,32 @@
+import NavBar from "./components/NavBar"
+import TechStack from "./components/TechStack"
+import Contact from "./sections/Contact"
+
+import ExperienceSection from "./sections/ExperienceSection"
+import FeatureCards from "./sections/FeatureCards"
+import Footer from "./sections/Footer"
+
+import Hero from "./sections/Hero"
+import ShowcaseSection from "./sections/ShowcaseSection"
+
+
+const App = () => {
+  return (
+    <>
+    <NavBar />
+    <Hero />
+    
+    <ShowcaseSection />
+    <FeatureCards />
+    <ExperienceSection />
+    <TechStack />
+    <Contact />
+    <Footer />
+    
+
+    
+    </>
+  )
+}
+
+export default App
