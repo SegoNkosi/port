@@ -99,7 +99,6 @@ const techStackImgs = [
     name: "Figma",
     imgPath: "/images/logos/figma.png",
   },
-
   {
     name: "HTML",
     imgPath: "/images/logos/html.png",
