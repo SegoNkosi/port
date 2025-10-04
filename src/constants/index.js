@@ -148,7 +148,7 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Lesego'S combined design insight with technical skill, making a big impact on our projects. Having been involved from the start as a UX/UI designer, she understood user flows and client needs deeply. This allowed her to bridge design and frontend development seamlessly, speeding up delivery. Lesego translated complex ideas into efficient code, ensuring the final product met both user expectations and client goals on time.",
+    review: "Lesego's combined design insight with technical skill, making a big impact on our projects. Having been involved from the start as a UX/UI designer, she understood user flows and client needs deeply. This allowed her to bridge design and frontend development seamlessly, speeding up delivery. Lesego translated complex ideas into efficient code, ensuring the final product met both user expectations and client goals on time.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: "Frontend Developer",
@@ -206,7 +206,7 @@ const testimonials = [
     imgPath: "/images/client3.png",
   },
   {
-    name: "to be chnaged",
+    name: "to be changed",
     mentions: "to be changed",
     review:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
