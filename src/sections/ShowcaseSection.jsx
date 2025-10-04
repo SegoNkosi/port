@@ -51,7 +51,7 @@ const ShowcaseSection = () => {
 
   const handleHotiloProjectClick = () => {
     // Will navigate to project page
-    window.open("https://medium.com/@nkosilesego8/case-study-redesigning-capitecs-login-experience-50e0aad65ffd", "_blank");
+    window.open("http://localhost:5173/", "_blank");
   };
 
   const handleKasiConnectClick = () => {
